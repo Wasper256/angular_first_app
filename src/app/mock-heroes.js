@@ -2,9 +2,9 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.HEROES = [
     { id: 11, name: 'Cris Foome' },
-    { id: 12, name: 'Narco' },
-    { id: 13, name: 'Bombasto' },
-    { id: 14, name: 'Celeritas' },
+    { id: 12, name: 'Mark Beumont' },
+    { id: 13, name: 'Simon Yates' },
+    { id: 14, name: 'V8nika' },
     { id: 15, name: 'Magneta' },
     { id: 16, name: 'RubberMan' },
     { id: 17, name: 'Dynama' },
